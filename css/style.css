@@ -1124,3 +1124,18 @@ footer .credits a {
     bottom: 15px;
   }
 }
+
+
+.spoiler, .spoiler2{ 
+  color: rgb(180, 180, 180); 
+  background-color:rgb(180, 180, 180);
+}
+
+.spoiler:hover{
+  color: white;
+  }
+
+.spoiler2:hover { 
+  color: rgb(0,0,0);
+  background-color:white; 
+  }
